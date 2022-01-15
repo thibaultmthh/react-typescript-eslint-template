@@ -33,7 +33,22 @@
                 "tsx": "never"
             }
         ],
-        "quotes": "off"
+        "quotes": "off",
+        "no-mixed-spaces-and-tabs": "off",
+        "indent": "off",
+        "no-tabs": "off",
+        "eol-last": "off",
+        "react/jsx-indent": "off",
+        "react/jsx-indent-props": "off",
+        "no-multiple-empty-lines": "off",
+        "object-curly-spacing": "off",
+        "no-trailing-spaces": "off",
+        "semi": "off",
+        "no-unused-vars": "warn",
+        "react/jsx-one-expression-per-line": "off",
+        "operator-linebreak": "off",
+        "no-console": "off",
+        "max-len": "warn"
     },
     "settings": {
         "import/resolver": {
